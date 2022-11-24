@@ -1,0 +1,23 @@
+{
+  "name": "live22 เว็บตรง live777th",
+  "main": "./lib/live22",
+  "version": "0.0.0",
+  "description": "Live22 เว็บตรง เจ้าเดียวในไทย",
+  "keywords": [
+    "live22 แจกฟรี",
+    "ทางเข้าเล่นสล็อตlive22",
+    "live22 เข้าสู่ระบบเล่นเกม",
+    "live22 login",
+    "เว็บlive22"
+  ],
+  "activationCommands": {
+    "atom-workspace": "live22:toggle"
+  },
+  "repository": "https://github.com/slotteam168/live22",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
