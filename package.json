@@ -1,5 +1,5 @@
 {
-  "name": "live22-slotteam168",
+  "name": "live22 เว็บตรง live777th",
   "main": "./lib/live22",
   "version": "0.0.0",
   "description": "Live22 เว็บตรง เจ้าเดียวในไทย",
@@ -18,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
